@@ -13,12 +13,16 @@ Data Visualization: Creating clear and interactive dashboards that turn complex 
 Predictive Analytics: Using machine learning models to forecast churn, allowing for early intervention and retention efforts.
 
 Customer Segmentation: Analyzing customer behaviors and demographics to develop targeted engagement strategies.
+![Customer Churn Dashboard](https://github.com/tiwari-vishesh/Customer-Churn-Data-Analysis/blob/c4f84eb8bdbc4b2e3f9fa6351a17acf1e337efef/Screenshot%201.PNG)
 
 Data-Driven Strategy: Applying key metrics like contract type and service usage to guide strategic decisions.
+![Customer Churn Dashboard](
+https://github.com/tiwari-vishesh/Customer-Churn-Data-Analysis/blob/c4f84eb8bdbc4b2e3f9fa6351a17acf1e337efef/Screenshot%202.PNG)
 
 Power BI Expertise: Developing dashboards that provide real-time data and help make informed decisions.
 
 Problem Solving: Identifying churn causes and crafting solutions to enhance customer satisfaction.
+![Customer Churn Dashboard](https://github.com/tiwari-vishesh/Customer-Churn-Data-Analysis/blob/c4f84eb8bdbc4b2e3f9fa6351a17acf1e337efef/Screenshot%203.PNG)
 
 
 
